@@ -56,5 +56,5 @@ The dataset used is California Housing Data, stored as `california_Housing.csv`.
    ```
 
 ## Author
-[Your Name] - Data Science Enthusiast
+[Nana Kwaku Osei-Opoku] - 10211100286
 
